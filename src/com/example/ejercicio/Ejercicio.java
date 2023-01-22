@@ -35,6 +35,14 @@ public class Ejercicio {
 
         String stringText = "hola";
         System.out.println("stringText = " + stringText);
+        
+        
+        
+        boolean booleanTrue = true;
+        System.out.println("booleanTrue = " + booleanTrue);
+        
+        boolean booleanFalse = false;
+        System.out.println("booleanFalse = " + booleanFalse);
 
 
 
